@@ -1,3 +1,3 @@
 # HelixSnake
 HelixSnake is a snake game that plays on Java Enigma.
-![alt text](https://imggmi.com/full/2020/3/15/b2c24287a91d550cddf46f3653b4f7b3-full.jpg.html)
+![alt text](https://cdn.discordapp.com/attachments/688852440040341589/688852551398981750/rsz_helix_snake_poster-1.jpgl)
