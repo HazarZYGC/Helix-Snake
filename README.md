@@ -15,6 +15,8 @@ There are twenty amino acids found in proteins. Amino acids are represented with
 --> Add amioacids.txt and highscoretable.txt to your project folder.<br>
 
 Take look project presentation in repository folder for more information.<br>
+# Images #
+
 
 ![alt text](https://github.com/HazarZYGC/Helix-Snake/blob/master/images/1.PNG)
 ![alt text](https://github.com/HazarZYGC/Helix-Snake/blob/master/images/2.PNG)
