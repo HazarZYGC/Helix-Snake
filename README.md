@@ -10,7 +10,7 @@ The game is played controlling a moving snake in 25*60 area. There are four lett
 # Amino Acids #
 There are twenty amino acids found in proteins. Amino acids are represented with codons. Each codon contains 3 letter of the DNA coding units T, C, A and G. All 64 possible 3-letter combinations of T, C, A and G are used either to encode one of these amino acids or as one of the three stop codons that signals the end of a sequence. 
 
-# Requirements # <br>
+# Requirements  <br>
 --> Add enigma.jar to your external library.<br>
 --> Add amioacids.txt and highscoretable.txt to your project folder.<br>
 
