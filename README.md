@@ -16,4 +16,7 @@ There are twenty amino acids found in proteins. Amino acids are represented with
 
 Take look project presentation in repository folder for more information.<br>
 
-![alt text](https://github.com/HazarZYGC/Helix-Snake/blob/master/Poster%20and%20presentation/rsz_helix_snake_poster-1.jpg)
+![alt text]https://github.com/HazarZYGC/Helix-Snake/blob/master/images/1.PNG)
+![alt text](https://github.com/HazarZYGC/Helix-Snake/blob/master/images/2.PNG)
+![alt text](https://github.com/HazarZYGC/Helix-Snake/blob/master/images/3.PNG)
+![alt text](https://github.com/HazarZYGC/Helix-Snake/blob/master/images/4.PNG)
